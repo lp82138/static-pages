@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<link href="css/basic.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!--[if IE]><script src="Scripts/html5.js"></script><![endif]-->
+<script src="Scripts/jquery-1.9.1.min.js"></script>
+<style>
+	.title{
+		position:absolute;
+		text-align:center;
+		color:#fff;
+		top:240px;
+		left:50%;
+		font-size:32px;
+		transform :translateX(-50%);
+	}
+</style>
+
+<script>
+$(function(){
+	
+	$(".login_btn").click(function(){
+		var name = $("#userName").val();
+		if(name=='admin'){
+			window.location.href="adminRole/equipment.html";
+			return false;
+		}else if(name=='caiban'){
+			window.location.href="caibanRole/equipment.html";
+			return false;
+		}if(name=='fayun'){
+			window.location.href="fayunRole/equipment.html";
+			return false;
+		}if(name=='yunshu'){
+			window.location.href="yunshuRole/equipment.html";
+			return false;
+		}if(name=='qingguan'){
+			window.location.href="qingguanRole/equipment.html";
+			return false;
+		}if(name=='manager'){
+			window.location.href="managerRole/equipment.html";
+			return false;
+		}if(name=='project'){
+			window.location.href="projectRole/equipment.html";
+			return false;
+		}
+		else{
+			alert("请输入姓名！！");
+		}
+	})
+})
+</script>
+</head>
+
+<body class="bluebg">
+
+<form action="" method="post" class="login">
+	<h2 class="title">中交海外进出口管理系统</h2>
+  <div class="login_l">
+    <div class="login_tip"></div>
+    <div class="clearfix">
+      <label for="userName">用户名</label>
+      <input id="userName" name="userName" class="login_txt">
+    </div>
+    <div class="clearfix">
+      <label for="PasswordFor">密&nbsp;&nbsp;&nbsp;&nbsp;码</label>
+      <input id="PasswordFor" name="PasswordFor" class="login_txt">
+    </div>
+    <div class="clearfix">
+      <label for="Verification">验证码</label>
+      <input id="Verification" name="Verification" class="login_txt_short">
+      <img src="images/verificate_code.gif" class="login_verificate">
+    </div>
+	<div class="clearfix" style="margin-left: 20px;margin-top: 12px;">
+      <input type="radio" name="type"  checked value='0'/>中文 &nbsp;&nbsp;&nbsp;&nbsp;
+	  <input type="radio" name="type" value="1"/>English &nbsp;&nbsp;&nbsp;&nbsp;
+	  <input type="radio" name="type" value="2"/>Français &nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
+  </div>
+  <div class="login_r">
+    <div class="clearfix">
+      <input type="checkbox" checked="checked" class="floatleft checkbox mt3">
+      <span class="floatleft ml4 white f14">记住我</span> </div>
+    <input type="submit" value="登 录" class="login_btn">
+    <input type="reset" value="重 置" class="login_btn">
+  </div>
+</form>
+</body>
+</html>
