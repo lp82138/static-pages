@@ -1,0 +1,149 @@
+.hhmdlook-l{ height: 626px; width:292px;}
+.hhmdlook-r{ height: 626px; width:826px;}
+.gzzs-l{ height: 660px; width:292px;}
+.gzzs-r{ height: 660px; width:826px;}
+.gongzzs-l{ height: 665px; width:292px; overflow: hidden;}
+.gongzzs-r{ height: 665px; width:826px;}
+.xqlook-l{height: 626px; width:292px;overflow: hidden;}
+.xqlook-r{height: 626px; width:826px;}
+.hhmtabe{height: 38px; }
+.hhmtabe ul li{ cursor: pointer; float: left; height: 38px; line-height: 38px; width: 50%; text-align: center; font-size: 16px;font-weight: bold;}
+.hhmtabe ul li.onhhm{background-color: #e85648; color: #fff;}
+.hhbcount{ margin-top: 10px;}
+.hhbcount ul li{ height: 35px; line-height: 35px; padding-left: 30px;}
+.hhbcount ul li a{ color: #000}
+.hhbcount p{ height: 35px; line-height: 35px;}
+.hhbcount p a{ float: right; color: #a0a0a0; margin-right: 20px;}
+.heimingdan ul li{ background: url(../images/hei_03.png) no-repeat 10px 10px;}
+.hongmingdan ul li{ background: url(../images/hong_03.png) no-repeat 10px 10px;}
+.hhmdlook-rone{height: 160px;}
+.hhmdlook-rthire{ height: 285px;}
+.hhmdlook-rone dl{ overflow: hidden; margin: 43px 0 0 45px;}
+.hhmdlook-rone dl dt { float: left;}
+.hhmdlook-rone dl dd{ float: left; margin-left: 15px;}
+.hhmdlook-rone dl dt i{ font-size: 63px;}
+.hhmdlook-rone dl dd h3{ font-size: 38px;padding-top: 10px;}
+.hhmdlook-rone dl dd p{ font-weight: bold; font-size: 18px;}
+.hhd-rthirel{ width: 45%;}
+.hhd-rthirer{ width: 55%;}
+.zrrftabe{ height: 41px;}
+.zrrftabe ul li{ cursor: pointer; float: left; height: 38px; line-height: 38px; margin-right: 18px;}
+.zrrftabe ul li.onzrfr{ color: #299bff; font-weight: bold; border-bottom: 3px solid #299bff;}
+.zrrfcount table{border-top: 1px solid #d3d2d2;border-left: 1px solid #d3d2d2;}
+.zrrfcount table tr th,.zrrfcount table tr td{ border-right: 1px solid #d3d2d2;height: 31px; text-align: center;}
+.zrrfcount table tr th{ background-color: #fdfdfe; }
+.zrrfcount table tr td{border-bottom: 1px solid #d3d2d2;}
+/*工作展示*/
+.gzzstabe{ height: 38px;}
+.gzzstabe ul li{ font-size: 18px; height: 38px; line-height: 38px; cursor: pointer; float:left; width: 50%; background-color: #f7f8fc; border: 1px solid #dce4f8; text-align: center;}
+.gzzstabe ul li.ongzzs{ background-color: #fff; border: 1px solid #fff; color: #299bff; font-weight: bold;}
+.gzzscount{ position: relative; margin-top: 10px;height: 600px;}
+.gzzslist{ position: absolute; left: 17px;top:0; z-index: 1;}
+.zsbox p{cursor:pointer; background: url(../images/leimg_03.png) no-repeat;margin-bottom:5px; width: 120px; height: 30px; line-height: 30px; padding-left: 34px ;font-weight: bold; color:#fff}
+.zsbox-nr{ display:block; margin-bottom:5px; padding:5px 10px; width: 240px; margin-left: 23px; background-color: #f7f8fc; border: 1px solid #dce4f8;}
+.onzk .zsbox-nr{display:block; }
+.zsbox-nr ul li{ height: 23px; line-height: 23px;}
+.gzzscount .more{position: absolute;bottom: 0px;right: 0px;}
+.gzzscount .more a{float: right; color: #a0a0a0; margin-right: 20px;}
+.tiaol{ position: absolute; left: 24px; top:20px; border-left: 2px solid #dce4f6;}
+.gzzs-r{ padding: 10px;}
+.gzzs-rtop{height: 30px; line-height: 30px; background-color: #f7f8fc;border: 1px solid #dce4f8; position: relative;}
+.gzzs-rtop p{ text-align: center;}
+.gzzs-rtop div.ltie{ position: absolute; right: 10px;top:0px;cursor:pointer;}
+.gzzs-rtop div.ltie em{ color: #f0f1f7; font-weight: bold; background-color: #e8513e;margin-left: 5px;font-style: normal; border-radius: 45%; width: 17px; height: 17px; line-height: 17px; text-align: center;float: left;margin-top: 6px; display: inline-block;}
+.gzzs-rtop div.ltie span{ float: left;}
+.daibsx{ display:none; background-color: #fff; width: auto; position: absolute; top: 33px;right:0px; border: 1px solid #30a5ff;padding: 3px 10px;border-radius: 3px;    z-index: 9999;}
+.daibsx i{display: block;margin-top: -26px;font-size: 22px;color: #30a5ff; text-align:right;}
+
+.gzzsrbox1{ width:49%;}
+.gzzsrbox2{ width: 50%;}
+.zxnum{ margin-top: 5px;}
+.zxnum .r_float{ color: #e8513e; font-weight: bold;}
+.cjnumtiao{ background-color: #e6edfd; height: 10px; margin-top:3px;}
+.cjnumtiao p{ background:url(../images/ge_03.jpg) repeat-x;height: 10px;}
+/*工作展示2*/
+.gongzzs-ltop{ height: 38px; line-height: 38px; padding: 0 10px;}
+.gongzzs-ltop p{ font-size: 16px; font-weight: bold;}
+.gongzzs-ltop a{ color: #666666;}
+.gognzlist{ margin:0 7px 0 14px;}
+.gognzlist ul li{ cursor: pointer; height: 33px; line-height: 33px; padding-left: 9px; position: relative;color: #000; }
+.gognzlist ul li:nth-child(odd){background-color: #e9ebf3;}
+.gognzlist ul li i{display: none;position: absolute;right: -14px;top: 9px;width: 0; height: 0px;border-width: 7px;border-style: solid;border-color: #fff #fff #fff #299bff;}
+.gognzlist ul li.onclick{ background-color: #299bff; color: #fff;}
+.gognzlist ul li.onclick i{ display: block;} 
+.gzrgtop{ background-color: #e9ebf3; margin: 6px 12px; padding: 5px 0;}
+.gzrgtop p{ padding:2px 15px; font-weight: bold;}
+
+.picScroll-left{ position: relative;height: 386px;}
+.picScroll-left .bd ul li{position: relative;cursor: pointer; float: left; width:258px; height: 386px; text-align: center; margin: 0 6px;}
+.lbmore{position: absolute;right: 10px;bottom: 5px; color: #333;    z-index: 10;}
+.picScroll-left .bd ul li div{width:258px; height: 386px;border: 1px solid #dedfe3;}
+.picScroll-left .bd ul li dl{ padding-top: 12px; height:65px; border-bottom: 1px solid #c6c5c5;margin:0 5px;}
+.picScroll-left .bd ul li dl:last-child{ border-bottom: 0px;}
+.picScroll-left .bd ul li dl p:first-child{font-weight: bold;}
+.picScroll-left .bd ul li dl dt{float: left; width:20px; height:40px; line-height:20px;}
+.picScroll-left .bd ul li dl dt i{ font-size: 18px;}
+.picScroll-left .bd ul li dl dd{ text-align: left;}
+.picScroll-left .bd ul li dl dd p span{font-size: 13px; color: #666666; float:right; font-weight: normal;}
+
+.picScroll-left .bd ul li div.onclick{ background-color: #eef1f9; border: 1px solid #299bff;box-shadow: 0 0 5px #dcdfe6;}
+.picScroll-left .bd .tempWrap{ margin: 0 auto; height: 386px; width: 532px;    overflow: hidden;}
+.picScroll-left .hd a{ position: absolute;top:150px; width: 17px; height: 42px; cursor: pointer;}
+.picScroll-left .hd a.next{ left: 10px; background: url(../images/leftbtn_03.png) no-repeat;}
+.picScroll-left .hd a.prev{ right: 10px;background: url(../images/rightbtn_05.png) no-repeat}
+.lbtie{ color: #299bff; font-size: 18px; font-weight: bold; margin: 5px 0 15px 0;}
+.bcstable{ height: 145px; border: 1px solid #cdcdcd;width: 525px;margin-left: 45px;}
+.bcstabletop{ background-color: #f0f1f7; height: 32px; line-height: 32px; border-bottom: 1px solid #a1a1a1;}
+.bcstabletop ul li{ float: left; text-align: center; font-weight: bold;}
+.bcstablecut tr td{ text-align: center; height: 28px;}
+.bcstablecut tr:nth-child(even){background-color: #f8f8f8;}
+.gzmdlist{ width:203px; height:583px; background-color: #f2f4fa; border: 1px solid #dedfe3;margin-right: 12px;}
+.gzmdlist h3{ font-size: 16px; font-weight:bold; text-align: center; margin: 5px 0 3px 0;}
+.gzmdlistcut ul li{height: 35px;line-height: 35px;padding-left: 30px;background: url(../images/hei_03.png) no-repeat 10px 10px;}
+.gzmdlistcut ul li a{ color: #000;}
+
+/*名单详情查看*/
+.blackred { margin-top: 10px;}
+.blackred ul li{ position: relative; cursor: pointer; font-weight:bold; background-color: #e9ebf3; margin:7px 7px; text-align: left; padding:9px 10px;}
+.blackred ul li p{ margin-bottom: 5px;}
+.blackred ul li i{position: absolute;right: -14px;top: 20px; display: none; width: 0;height: 0px;border-width: 7px;border-style: solid;border-color: #fff #fff #fff #299bff;}
+.blackred ul li.bron{ background-color: #299bff; color: #fff;box-shadow: 0 0 5px #dcdfe6;}
+.blackred ul li.bron i{ display: block;}
+.xqlooktie{height: 38px; line-height: 38px; background-color: #f7f8fc; border: 1px solid #dce4f8;}
+.xqlooktie p{ cursor:pointer; font-size: 16px; font-weight: bold; float: left;padding: 0 10px; color:#299bff}
+.xqlooktie p i{ font-weight: normal;}
+.xqlooktie p.qrtabeon{background-color: #299bff; color:#fff;}
+.xqlooktie p.qrtabeon i{color:#fff;}
+.cxresult { border: 1px solid #cdcdcd; margin:5px 13px 13px 13px;}
+.cxresult table tr th,.cxresult table tr td{ text-align: center;}
+.cxresult table tr th{ font-weight: bold; height: 38px; background-color: #eef1f9;}
+.cxresult table tr td{ height: 31px;}
+.cxresult table tr:nth-child(even){background-color: #eef1f9;}  
+.chauxnbox{margin:13px 13px}
+.chauxnbox label{ margin-bottom: 0;}
+.chauxnbox label input{ width: 115px; height: 26px;line-height: 26px;padding: 0 3px; font-weight: normal; border: 1px solid #d1cec9; margin-right: 10px;border-radius: 3px}
+.cxbtn{ width: 55px; height: 26px; background-color: #299bff; color: #fff; cursor: pointer; border-radius: 3px;}
+.cxbtn:hover{ background-color: #2895f4;}
+
+.cxqyfrtk table tr td{ cursor: pointer;}
+.cxqyfrtk table tr:hover td{background-color: #299bff;color: #fff; text-decoration: underline;}
+/*弹框*/
+.bomb{position: absolute; display: none; z-index: 11; margin: auto; top:0;left: 0; bottom: 0; right: 0; width:690px; height:430px;border: 1px solid #299bff; background-color: #fff;}
+.bomb-tie{ height: 32px; line-height: 32px; padding: 0 10px; background-color: #299bff; color: #fff;}
+.bomb-tie p{ float: left; font-size: 16px;}
+.bomb-tie span{ float: right; cursor: pointer;font-size: 16px;}
+.pdcount{margin: 10px; padding-right: 10px; overflow: hidden;}
+.jibctop ul li{ margin-bottom:6px; width: 50%;float: left;}
+.bmnamecs{ margin-top: 10px;}
+.cjjltabe{ cursor: pointer;height: 33px; line-height: 32px; font-size: 14px; background-color: #e9ebf3;border-top: 1px solid #c6c5c5;} 
+.cjjltabe ul li{ float:left; padding: 0 30px; }
+.cjjltabe ul li.cjjltabeon{ background-color: #299bff; color:#fff}
+.cjnrlist-nr{ overflow: hidden;}
+.cjnrlist-nr dl{ margin-top: 10px; height:55px; width:50%; float:left; border-bottom: 1px solid #c6c5c5; }
+.cjnrlist-nr dl:nth-child(even) dd{ border-right:0;}
+.cjnrlist-nr dl dt{ text-align: center;float: left; width:20px; height:40px; line-height:20px;border-radius: 100%;}
+.cjnrlist-nr dl dt i{ font-size: 13px;}
+.cjnrlist-nr dl dd{ text-align: left;border-right: 1px solid #c6c5c5;padding-right: 10px;}
+.cjnrlist-nr dl dd p:first-child{ font-weight: bold;}
+.cjnrlist-nr dl dd p span{ float: right; font-weight: normal;color: #666666;font-size: 13px;}
+ 

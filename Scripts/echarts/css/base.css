@@ -1,0 +1,33 @@
+div,body,h1,h2,h3,h4,h5,h6,p,span,form,input,ul,li,a,i,select,textarea,table,img,dt,dd,form{margin: 0;padding: 0;}
+body,html{font-family: "Microsoft YaHei"; font-size:14px; height:100%;  background-color: #eef1f9;}
+img{border: none;}
+input{border:none; font-family:"Microsoft YaHei"}
+p,dl{ margin-bottom:0;}
+a{text-decoration: none;font-size: 14px;}
+a:focus{outline:none;}
+textarea{resize: none;}
+li{list-style: none;}
+.l_float{float: left;}
+.r_float{float:right;}
+.txtac{ text-align:center}
+.clear{clear:both;}
+.clearfix:after{content: '';display: block;clear: both;overflow: hidden;font-size:0;height: 0;}
+.clearfix{zoom: 1;}
+.base_w{ width: 1126px; margin: 0 auto;}
+.boxshadow{box-shadow: 0 0 10px #dcdfe6;}
+.mt10{ margin-top: 10px;}
+.bjcolor{ background-color: #fff;}
+.font16{ font-size: 16px;}
+.yellow{color: #efb915;}
+.green{ color: #19b491;}
+.blue{ color: #299bff;}
+/*容器*/
+.containbox {position: relative;width: 100%;min-height: 100%;}
+.wrap {margin-bottom: 20px;}
+.headertop{ height:87px;width: 100%; background: url(../images/topbj_01.jpg) no-repeat;}
+.headertop h2{ color: #fff;font-size: 30px;line-height: 87px;}
+.topright ul li{ border-radius: 3px; margin-left:10px ; cursor: pointer; float: left; height: 38px; line-height: 38px; padding: 0 10px; color: #fff; margin-top: 28px;}
+.topright ul li:hover{ color: #299bff; background-color: #fff;}
+.topright ul li i{font-size: 26px;display: inline-block;float: left; margin-right:5px;}
+
+.mask{display: none;background-color: #000;opacity: 0.5;filter: alpha(opacity:50);position: fixed;top: 0;left: 0;z-index: 10;width: 100%;height: 100%;}
